@@ -1,12 +1,12 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net48</TargetFramework>
+    <TargetFramework>net472</TargetFramework>
     <AssemblyName>BardMusicPlayerHelper</AssemblyName>
     <RootNamespace>BardMusicPlayerHelper</RootNamespace>
-    <AssemblyVersion>1.0.0.0</AssemblyVersion>
-    <FileVersion>1.0.0.0</FileVersion>
-    <Version>1.0.0.0</Version>
+    <AssemblyVersion>1.0.0.1</AssemblyVersion>
+    <FileVersion>1.0.0.1</FileVersion>
+    <Version>1.0.0.1</Version>
     <Authors>MoogleTroupe</Authors>
     <Copyright>Copyright © MoogleTroupe 2021</Copyright>
     <PackageLicenseExpression>GPL-3.0-or-later</PackageLicenseExpression>
