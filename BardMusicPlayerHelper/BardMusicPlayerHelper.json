@@ -1,10 +1,10 @@
 ﻿{
   "Author": "MoogleTroupe",
   "Name": "BardMusicPlayer Helper",
-  "Description": "Allows for you to sing lyrics and play music at the same time with BardMusicPlayer ( https://bardmusicplayer.com )",
+  "Description": "Allows for you to sing lyrics and play music at the same time with BardMusicPlayer",
   "InternalName": "BardMusicPlayerHelper",
   "AssemblyVersion": "1.0.0.1",
-  "RepoUrl": "https://github.com/BardMusicPlayer/Dalamud-BardMusicPlayerHelper",
+  "RepoUrl": "https://bardmusicplayer.com",
   "ApplicableVersion": "any",
   "Tags": [
     "BMP",
