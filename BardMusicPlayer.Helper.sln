@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BardMusicPlayerHelper", "BardMusicPlayerHelper\BardMusicPlayerHelper.csproj", "{9F4F0304-9307-457F-A698-924F7DEF8432}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BardMusicPlayer.Helper.Dalamud", "BardMusicPlayer.Helper.Dalamud\BardMusicPlayer.Helper.Dalamud.csproj", "{9F4F0304-9307-457F-A698-924F7DEF8432}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -2,8 +2,8 @@
   "Author": "MoogleTroupe",
   "Name": "BardMusicPlayer Helper",
   "Description": "Allows for you to sing lyrics and play music at the same time with BardMusicPlayer",
-  "InternalName": "BardMusicPlayerHelper",
-  "AssemblyVersion": "1.0.0.1",
+  "InternalName": "BardMusicPlayer.Helper.Dalamud",
+  "AssemblyVersion": "1.0.0.0",
   "RepoUrl": "https://bardmusicplayer.com",
   "ApplicableVersion": "any",
   "Tags": [

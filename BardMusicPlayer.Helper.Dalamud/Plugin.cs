@@ -1,6 +1,6 @@
 ﻿/*
  * Copyright(c) 2021 MoogleTroupe, 2018-2020 parulina
- * Licensed under the GPL v3 license. See https://github.com/BardMusicPlayer/BardMusicPlayer/blob/develop/LICENSE for full license information.
+ * Licensed under the GPL v3 license. See https://github.com/BardMusicPlayer/BardMusicPlayer.Helper/blob/develop/LICENSE for full license information.
  */
 
 using System;
@@ -11,7 +11,7 @@ using Dalamud.Plugin;
 using H.Pipes;
 using H.Pipes.Args;
 
-namespace BardMusicPlayerHelper
+namespace BardMusicPlayer.Helper.Dalamud
 {
     public class Plugin : IDalamudPlugin
     {

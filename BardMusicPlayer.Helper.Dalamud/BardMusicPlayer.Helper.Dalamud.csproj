@@ -2,15 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>net472</TargetFramework>
-    <AssemblyName>BardMusicPlayerHelper</AssemblyName>
-    <RootNamespace>BardMusicPlayerHelper</RootNamespace>
-    <AssemblyVersion>1.0.0.1</AssemblyVersion>
-    <FileVersion>1.0.0.1</FileVersion>
-    <Version>1.0.0.1</Version>
+    <AssemblyName>BardMusicPlayer.Helper.Dalamud</AssemblyName>
+    <RootNamespace>BardMusicPlayer.Helper.Dalamud</RootNamespace>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+    <Version>1.0.0.0</Version>
     <Authors>MoogleTroupe</Authors>
     <Copyright>Copyright © MoogleTroupe 2021</Copyright>
     <PackageLicenseExpression>GPL-3.0-or-later</PackageLicenseExpression>
-    <RepositoryUrl>https://github.com/BardMusicPlayer/Dalamud-BardMusicPlayerHelper</RepositoryUrl>
+    <RepositoryUrl>https://github.com/BardMusicPlayer/BardMusicPlayer.Helper</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <LangVersion>9</LangVersion>
   </PropertyGroup>
@@ -28,7 +28,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="BardMusicPlayerHelper.json">
+    <None Update="BardMusicPlayer.Helper.Dalamud.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>

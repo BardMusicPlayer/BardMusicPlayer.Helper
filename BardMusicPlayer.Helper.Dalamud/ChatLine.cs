@@ -1,6 +1,6 @@
 ﻿/*
  * Copyright(c) 2021 MoogleTroupe, 2018-2020 parulina
- * Licensed under the GPL v3 license. See https://github.com/BardMusicPlayer/BardMusicPlayer/blob/develop/LICENSE for full license information.
+ * Licensed under the GPL v3 license. See https://github.com/BardMusicPlayer/BardMusicPlayer.Helper/blob/develop/LICENSE for full license information.
  */
 
 using System;
@@ -9,7 +9,7 @@ using System.Globalization;
 using System.Runtime.InteropServices;
 using System.Text;
 
-namespace BardMusicPlayerHelper
+namespace BardMusicPlayer.Helper.Dalamud
 {
     [StructLayout(LayoutKind.Explicit)]
     [SuppressMessage("ReSharper", "PrivateFieldCanBeConvertedToLocalVariable")]
