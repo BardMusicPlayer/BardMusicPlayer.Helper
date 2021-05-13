@@ -4,6 +4,7 @@
     <TargetFramework>net472</TargetFramework>
     <AssemblyName>BardMusicPlayer.Helper.Dalamud</AssemblyName>
     <RootNamespace>BardMusicPlayer.Helper.Dalamud</RootNamespace>
+    <PackageProjectUrl>https://bardmusicplayer.com</PackageProjectUrl>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
     <FileVersion>1.0.0.0</FileVersion>
     <Version>1.0.0.0</Version>
